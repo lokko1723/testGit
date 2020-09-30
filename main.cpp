@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void foo() {
+	
+}
+
 int main(int argc, char const *argv[])
 {
 	
