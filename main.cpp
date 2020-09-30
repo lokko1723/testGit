@@ -2,14 +2,6 @@
 
 using namespace std;
 
-void foo() {
-
-}
-
-void boo() {
-	
-}
-
 int main(int argc, char const *argv[])
 {
 	
