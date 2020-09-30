@@ -10,6 +10,10 @@ void boo() {
 	
 }
 
+void koo() {
+	
+}
+
 int main(int argc, char const *argv[])
 {
 	
