@@ -11,6 +11,10 @@ void boo() {
 }
 
 void koo() {
+
+}
+
+void loo() {
 	
 }
 
